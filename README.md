@@ -1,0 +1,1 @@
+https.mysampleadobe.github.io
